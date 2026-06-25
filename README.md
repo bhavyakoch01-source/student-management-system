@@ -9,5 +9,8 @@ A beginner Python project to manage student records.
 ## Technologies Used
 - Python
 
+## Preview
+[Project Screenshot] (screenshot.png)
+
 ## Author
 Bhavya
